@@ -1,0 +1,127 @@
+
+
+{
+    "response_code": 0,
+    "results": [
+      {
+        "category": "Physics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "what is used in photosynthesis?",
+        "correct_answer": "Light",
+        "incorrect_answers": [
+          "Banana",
+          "mata",
+          "Beans"
+        ]
+      },
+      {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What does GHz stand for?",
+        "correct_answer": "Gigahertz",
+        "incorrect_answers": [
+          "Gigahotz",
+          "Gigahetz",
+          "Gigahatz"
+        ]
+      },
+      {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What does the Prt Sc button do?",
+        "correct_answer": "Captures what&#039;s on the screen and copies it to your clipboard",
+        "incorrect_answers": [
+          "Nothing",
+          "Saves a .png file of what&#039;s on the screen in your screenshots folder in photos",
+          "Closes all windows"
+        ]
+      },
+      {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?",
+        "correct_answer": "Green",
+        "incorrect_answers": [
+          "Red",
+          "Blue",
+          "Yellow"
+        ]
+      },
+      {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which computer language would you associate Django framework with?",
+        "correct_answer": "Python",
+        "incorrect_answers": [
+          "C#",
+          "C++",
+          "Java"
+        ]
+      },
+      {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What does LTS stand for in the software market?",
+        "correct_answer": "Long Term Support",
+        "incorrect_answers": [
+          "Long Taco Service",
+          "Ludicrous Transfer Speed",
+          "Ludicrous Turbo Speed"
+        ]
+      },
+      {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "The numbering system with a radix of 16 is more commonly referred to as ",
+        "correct_answer": "Hexidecimal",
+        "incorrect_answers": [
+          "Binary",
+          "Duodecimal",
+          "Octal"
+        ]
+      },
+      {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "This mobile OS held the largest market share in 2012.",
+        "correct_answer": "iOS",
+        "incorrect_answers": [
+          "Android",
+          "BlackBerry",
+          "Symbian"
+        ]
+      },
+      {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "How many values can a single byte represent?",
+        "correct_answer": "256",
+        "incorrect_answers": [
+          "8",
+          "1",
+          "1024"
+        ]
+      },
+      {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "The C programming language was created by this American computer scientist. ",
+        "correct_answer": "Dennis Ritchie",
+        "incorrect_answers": [
+          "Tim Berners Lee",
+          "al-Khwārizmī",
+          "Willis Ware"
+        ]
+      }
+    ]
+  }
